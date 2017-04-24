@@ -1,0 +1,2 @@
+c:\users\home\documents\visual studio 2015\Projects\Lab9\Lab9\bin\Debug\Lab9.exe.config
+C:\Users\home\Documents\Visual Studio 2015\Projects\Lab9\Lab9\obj\Debug\Lab9.csprojResolveAssemblyReference.cache
